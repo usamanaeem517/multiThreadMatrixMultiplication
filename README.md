@@ -1,4 +1,4 @@
-# multithreadMatrixMultiplication
+# multiThreadMatrixMultiplication
 
 usage: g++ main.cpp -o main </br>
        ./main -f1 <file1name> -f2 <file1name> -t <numberofthreads> </br>
